@@ -36,4 +36,6 @@ Dark Themes: The game contains themes of death, chaos, and ancient curses.
 Mature Content: The game’s storyline may include intense and emotionally charged scenes.
 
 # Screenshots
-![WhatsApp Image 2024-08-12 at 05 37 07](https://github.com/user-attachments/assets/c386a9f5-03d1-4fd4-899a-be4715491ff9)
+![screen1](https://github.com/user-attachments/assets/97cb6fa7-f63e-48a1-8055-86eb71125c5e)
+![screen2](https://github.com/user-attachments/assets/182c8b86-81a2-4f00-8229-7c40ad0d43c1)
+![screen3](https://github.com/user-attachments/assets/0a396698-ef85-401c-a84e-9e723e234393)
