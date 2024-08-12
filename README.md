@@ -1,4 +1,4 @@
-#The Amara's Curse - AR Puzzle Game
+# The Amara's Curse - AR Puzzle Game
 Overview
 "Amara's Curse" is an interactive Augmented Reality (AR) puzzle game where players must solve ancient riddles to avoid being hunted by Amara, a young scribe from the ancient kingdom of Nubia, now trapped within your phone. The game is set in 320 BCE, in the city of Meroë, during a time of chaos and invasion. Players will interact with Amara through their device, experiencing a mix of history, mythology, and challenging puzzles.
 
