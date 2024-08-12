@@ -43,7 +43,7 @@ class ColorSelection extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                "Colors",
+                "Gods",
                 style: TextStyle(
                   decoration: TextDecoration.none,
                   fontSize: 40,
