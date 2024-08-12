@@ -34,11 +34,6 @@ Stay Immersed: The more you engage with the story, the richer your experience wi
 Warnings
 Dark Themes: The game contains themes of death, chaos, and ancient curses.
 Mature Content: The game’s storyline may include intense and emotionally charged scenes.
-Credits
-Game Development: [Your Game Development Team]
-Story & Script: [Your Scriptwriters]
-AR Technology: [AR Technology Providers]
-Voice Acting: [Voice Actors]
 
-Support
-For any issues or inquiries, please contact our support team at [Support Email]. Enjoy your journey through the ancient kingdom of Nubia, and may you survive Amara’s Curse!
+# Screenshots
+![WhatsApp Image 2024-08-12 at 05 37 07](https://github.com/user-attachments/assets/c386a9f5-03d1-4fd4-899a-be4715491ff9)
