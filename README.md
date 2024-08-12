@@ -2,7 +2,7 @@
 Overview
 "Amara's Curse" is an interactive Augmented Reality (AR) puzzle game where players must solve ancient riddles to avoid being hunted by Amara, a young scribe from the ancient kingdom of Nubia, now trapped within your phone. The game is set in 320 BCE, in the city of Meroë, during a time of chaos and invasion. Players will interact with Amara through their device, experiencing a mix of history, mythology, and challenging puzzles.
 
-Game Plot
+# Game Plot
 Setting: Ancient Nubia, City of Meroë, 320 BCE.
 Main Character: Amara, a young scribe whose family fled Meroë during a time of chaos.
 Storyline: Amara’s family escapes to the mountains to rebuild their lives but faces numerous trials along the way, including the death of her brother Menes. Years later, Amara returns to Meroë to rebuild, but the kingdom eventually falls. Now trapped in a mystical artifact, Amara presents riddles to the player.
